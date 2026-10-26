@@ -11,3 +11,5 @@ Lab work for Coding Café, FM102.
 - `lab2/` — variables, types, operations, I/O
 - `lab3/` — conditionals and loops
 - `lab4/` — git and github
+- `lab5/` - Files 
+- `lab6/` - Lists, Tuples, Dicts and CSV.
